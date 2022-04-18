@@ -3,6 +3,7 @@ A project on Neural Network of C. Elegan. This is a neural network of neurons an
 
 
 NODES: 297
+
 EDGES: 2148
 
 
@@ -13,3 +14,9 @@ EDGES: 2148
 ![image](https://user-images.githubusercontent.com/93238919/163803565-be1aa49c-3f5b-4c9c-924d-58ec2a765b63.png)
 ![image](https://user-images.githubusercontent.com/93238919/163803649-85c8ca29-98cb-4a36-950e-7dbcfd1c1623.png)
 
+Conclusion:
+
+The last image suggests that the dataset has many items which are interrelated to each other 
+and the neural networks of C. Elegan are having a strong relationship with each other. There 
+are 5 communities and filtering them suggests that the top 3 communities are bonded strong 
+enough
